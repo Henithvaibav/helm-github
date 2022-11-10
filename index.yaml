@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helmgithub:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-10T13:22:29.259148503+05:30"
+    description: Helm domo pusing charts to github
+    digest: 4aac0d9665867e84cc693ac14bfb64337208dda005026bcac1cd5cefcafca03a
+    name: helmgithub
+    type: application
+    urls:
+    - helmgithub-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-10T13:22:29.257674478+05:30"
