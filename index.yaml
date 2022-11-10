@@ -3,7 +3,7 @@ entries:
   helmgithub:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-10T13:22:29.259148503+05:30"
+    created: "2022-11-10T14:14:52.891339753+05:30"
     description: Helm domo pusing charts to github
     digest: 4aac0d9665867e84cc693ac14bfb64337208dda005026bcac1cd5cefcafca03a
     name: helmgithub
@@ -11,4 +11,15 @@ entries:
     urls:
     - helmgithub-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-10T13:22:29.257674478+05:30"
+  helmgitrepo2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-10T14:14:52.893388672+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 12a1c4c158bd3dfc99c909d5247a008fe9c38a41b53689e13fbc87ce24c507a8
+    name: helmgitrepo2
+    type: application
+    urls:
+    - helmgitrepo2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-10T14:14:52.888040362+05:30"
